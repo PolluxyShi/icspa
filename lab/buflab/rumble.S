@@ -1,0 +1,4 @@
+pushl $0x5568b951
+pushl $0x0
+pushl $0x804954f
+ret
